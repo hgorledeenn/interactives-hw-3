@@ -1,42 +1,21 @@
-# sv
+# Homework-3
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+### Chart 1
+[Original d3 chart](https://observablehq.com/@d3/line-chart/2) (left) and my Svelte version (right)
+<div align-content="left">
+<img src="chart_1_orig.png" width="33%"><img src="chart_1_mine.png" width="33%">
+</div>
 
-## Creating a project
+#### Biggest challenges:
+This chart was mostly simple to recreate in Svelte. One issue I ran into is that the x-axis is a date type and not simply an integer. I used the `scaleUtc` to help deal with this. I also had to consult my friend chatGPT to work through adding axis labels only every 3 months and that show the year instead of January every time.
 
-If you're seeing this, you've probably already done this step. Congrats!
+<hr>
 
-```sh
-# create a new project
-npx sv create my-app
-```
+### Chart 2
+[Original d3 chart](https://observablehq.com/@d3/revenue-by-music-format-1973-2018) (left) and my Svelte version (right)
+<div align-content="left">
+<img src="chart_2_orig.png" width="33%"><img src="chart_2_mine.png" width="33%">
+</div>
 
-To recreate this project with the same configuration:
-
-```sh
-# recreate this project
-npx sv@0.15.3 create --template minimal --no-types --add prettier --install npm class-svelte-starter
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```sh
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```sh
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+#### Biggest challenges:
+This one was a lot harder – making the stacked columns was difficult, and the data I brought in was in long format from the [NYC Open Data export](/src/lib/components/stories/311_requests.json), but d3 needed it to be wide. I feel confident about my understanding of the code, though much of it was written with the help of chatGPT as I was learning how to do it. I also am not too happy about the colors/categories, and still do not have a color key on the chart, but gained some experience in making a stacked chart like this.

@@ -1,0 +1,3722 @@
+[
+  {
+    "by_month_created_date": "2023 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "7,561"
+  },
+  {
+    "by_month_created_date": "2022 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "36,828"
+  },
+  {
+    "by_month_created_date": "2020 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "11,415"
+  },
+  {
+    "by_month_created_date": "2024 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "51,325"
+  },
+  {
+    "by_month_created_date": "2020 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "6,869"
+  },
+  {
+    "by_month_created_date": "2023 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "4,890"
+  },
+  {
+    "by_month_created_date": "2025 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "3,026"
+  },
+  {
+    "by_month_created_date": "2022 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "9,828"
+  },
+  {
+    "by_month_created_date": "2025 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "13,401"
+  },
+  {
+    "by_month_created_date": "2024 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "5,523"
+  },
+  {
+    "by_month_created_date": "2024 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "12,422"
+  },
+  {
+    "by_month_created_date": "2021 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "9,003"
+  },
+  {
+    "by_month_created_date": "2020 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "7,179"
+  },
+  {
+    "by_month_created_date": "2023 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "10,136"
+  },
+  {
+    "by_month_created_date": "2022 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "35,097"
+  },
+  {
+    "by_month_created_date": "2023 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "2,822"
+  },
+  {
+    "by_month_created_date": "2020 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "1,529"
+  },
+  {
+    "by_month_created_date": "2023 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "30,210"
+  },
+  {
+    "by_month_created_date": "2020 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "5,539"
+  },
+  {
+    "by_month_created_date": "2022 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "36,635"
+  },
+  {
+    "by_month_created_date": "2023 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "3,830"
+  },
+  {
+    "by_month_created_date": "2020 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "5,251"
+  },
+  {
+    "by_month_created_date": "2023 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "24,417"
+  },
+  {
+    "by_month_created_date": "2022 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "62,026"
+  },
+  {
+    "by_month_created_date": "2022 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "7,107"
+  },
+  {
+    "by_month_created_date": "2023 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "23,027"
+  },
+  {
+    "by_month_created_date": "2020 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "6,203"
+  },
+  {
+    "by_month_created_date": "2020 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "1,943"
+  },
+  {
+    "by_month_created_date": "2020 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Request Large Bulky Item Collection",
+    "count_unique_key": "17,788"
+  },
+  {
+    "by_month_created_date": "2022 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "3,631"
+  },
+  {
+    "by_month_created_date": "2025 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "5,474"
+  },
+  {
+    "by_month_created_date": "2022 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "13,344"
+  },
+  {
+    "by_month_created_date": "2022 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "11,858"
+  },
+  {
+    "by_month_created_date": "2025 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "10,840"
+  },
+  {
+    "by_month_created_date": "2021 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "12,129"
+  },
+  {
+    "by_month_created_date": "2023 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "41,617"
+  },
+  {
+    "by_month_created_date": "2020 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "11,424"
+  },
+  {
+    "by_month_created_date": "2024 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "3,749"
+  },
+  {
+    "by_month_created_date": "2024 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "3,647"
+  },
+  {
+    "by_month_created_date": "2025 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "67,229"
+  },
+  {
+    "by_month_created_date": "2020 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "20,104"
+  },
+  {
+    "by_month_created_date": "2021 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "11,047"
+  },
+  {
+    "by_month_created_date": "2024 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "8,488"
+  },
+  {
+    "by_month_created_date": "2021 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "40,630"
+  },
+  {
+    "by_month_created_date": "2021 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "5,039"
+  },
+  {
+    "by_month_created_date": "2021 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Request Large Bulky Item Collection",
+    "count_unique_key": "29,205"
+  },
+  {
+    "by_month_created_date": "2023 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "24,968"
+  },
+  {
+    "by_month_created_date": "2024 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "39,784"
+  },
+  {
+    "by_month_created_date": "2023 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "21,770"
+  },
+  {
+    "by_month_created_date": "2022 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "21,148"
+  },
+  {
+    "by_month_created_date": "2023 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "6,986"
+  },
+  {
+    "by_month_created_date": "2023 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "5,664"
+  },
+  {
+    "by_month_created_date": "2024 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "4,085"
+  },
+  {
+    "by_month_created_date": "2021 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "5,992"
+  },
+  {
+    "by_month_created_date": "2022 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Request Large Bulky Item Collection",
+    "count_unique_key": 336
+  },
+  {
+    "by_month_created_date": "2025 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "15,197"
+  },
+  {
+    "by_month_created_date": "2020 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "31,922"
+  },
+  {
+    "by_month_created_date": "2021 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "6,232"
+  },
+  {
+    "by_month_created_date": "2021 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "29,350"
+  },
+  {
+    "by_month_created_date": "2023 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "28,333"
+  },
+  {
+    "by_month_created_date": "2020 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "50,031"
+  },
+  {
+    "by_month_created_date": "2020 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "6,900"
+  },
+  {
+    "by_month_created_date": "2025 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "3,863"
+  },
+  {
+    "by_month_created_date": "2024 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "42,717"
+  },
+  {
+    "by_month_created_date": "2023 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "13,986"
+  },
+  {
+    "by_month_created_date": "2023 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "3,481"
+  },
+  {
+    "by_month_created_date": "2022 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "5,265"
+  },
+  {
+    "by_month_created_date": "2021 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "5,979"
+  },
+  {
+    "by_month_created_date": "2026 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "11,875"
+  },
+  {
+    "by_month_created_date": "2023 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "6,446"
+  },
+  {
+    "by_month_created_date": "2024 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "9,318"
+  },
+  {
+    "by_month_created_date": "2021 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "31,291"
+  },
+  {
+    "by_month_created_date": "2022 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "33,094"
+  },
+  {
+    "by_month_created_date": "2023 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "14,657"
+  },
+  {
+    "by_month_created_date": "2021 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "22,480"
+  },
+  {
+    "by_month_created_date": "2026 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "54,104"
+  },
+  {
+    "by_month_created_date": "2022 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "16,138"
+  },
+  {
+    "by_month_created_date": "2021 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "3,189"
+  },
+  {
+    "by_month_created_date": "2020 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "3,877"
+  },
+  {
+    "by_month_created_date": "2026 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "4,139"
+  },
+  {
+    "by_month_created_date": "2024 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "3,911"
+  },
+  {
+    "by_month_created_date": "2024 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "13,117"
+  },
+  {
+    "by_month_created_date": "2025 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "31,858"
+  },
+  {
+    "by_month_created_date": "2021 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "5,084"
+  },
+  {
+    "by_month_created_date": "2025 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "13,519"
+  },
+  {
+    "by_month_created_date": "2025 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "32,756"
+  },
+  {
+    "by_month_created_date": "2024 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "15,239"
+  },
+  {
+    "by_month_created_date": "2022 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "8,560"
+  },
+  {
+    "by_month_created_date": "2022 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Request Large Bulky Item Collection",
+    "count_unique_key": "5,968"
+  },
+  {
+    "by_month_created_date": "2026 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "6,913"
+  },
+  {
+    "by_month_created_date": "2024 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "14,966"
+  },
+  {
+    "by_month_created_date": "2021 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "29,401"
+  },
+  {
+    "by_month_created_date": "2021 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Request Large Bulky Item Collection",
+    "count_unique_key": "27,739"
+  },
+  {
+    "by_month_created_date": "2021 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "10,478"
+  },
+  {
+    "by_month_created_date": "2021 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "2,256"
+  },
+  {
+    "by_month_created_date": "2022 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "5,161"
+  },
+  {
+    "by_month_created_date": "2020 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "43,035"
+  },
+  {
+    "by_month_created_date": "2024 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "13,045"
+  },
+  {
+    "by_month_created_date": "2024 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "10,141"
+  },
+  {
+    "by_month_created_date": "2021 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "32,561"
+  },
+  {
+    "by_month_created_date": "2024 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "11,493"
+  },
+  {
+    "by_month_created_date": "2025 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "1,979"
+  },
+  {
+    "by_month_created_date": "2020 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "4,241"
+  },
+  {
+    "by_month_created_date": "2020 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Request Large Bulky Item Collection",
+    "count_unique_key": "15,158"
+  },
+  {
+    "by_month_created_date": "2023 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "3,292"
+  },
+  {
+    "by_month_created_date": "2020 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "7,328"
+  },
+  {
+    "by_month_created_date": "2020 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "21,675"
+  },
+  {
+    "by_month_created_date": "2025 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "4,288"
+  },
+  {
+    "by_month_created_date": "2024 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "5,101"
+  },
+  {
+    "by_month_created_date": "2023 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "5,881"
+  },
+  {
+    "by_month_created_date": "2024 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "45,809"
+  },
+  {
+    "by_month_created_date": "2020 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "12,039"
+  },
+  {
+    "by_month_created_date": "2022 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "7,040"
+  },
+  {
+    "by_month_created_date": "2022 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "20,064"
+  },
+  {
+    "by_month_created_date": "2020 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "2,798"
+  },
+  {
+    "by_month_created_date": "2021 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "3,898"
+  },
+  {
+    "by_month_created_date": "2024 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "4,260"
+  },
+  {
+    "by_month_created_date": "2020 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "6,781"
+  },
+  {
+    "by_month_created_date": "2021 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "38,055"
+  },
+  {
+    "by_month_created_date": "2023 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "39,427"
+  },
+  {
+    "by_month_created_date": "2021 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "5,580"
+  },
+  {
+    "by_month_created_date": "2024 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "9,566"
+  },
+  {
+    "by_month_created_date": "2025 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "8,394"
+  },
+  {
+    "by_month_created_date": "2021 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "9,036"
+  },
+  {
+    "by_month_created_date": "2024 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "2,580"
+  },
+  {
+    "by_month_created_date": "2023 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "15,774"
+  },
+  {
+    "by_month_created_date": "2022 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "9,608"
+  },
+  {
+    "by_month_created_date": "2024 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "15,457"
+  },
+  {
+    "by_month_created_date": "2025 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "3,126"
+  },
+  {
+    "by_month_created_date": "2023 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "7,468"
+  },
+  {
+    "by_month_created_date": "2020 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "26,407"
+  },
+  {
+    "by_month_created_date": "2020 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "3,833"
+  },
+  {
+    "by_month_created_date": "2021 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "8,463"
+  },
+  {
+    "by_month_created_date": "2026 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "11,208"
+  },
+  {
+    "by_month_created_date": "2020 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "3,002"
+  },
+  {
+    "by_month_created_date": "2024 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "3,631"
+  },
+  {
+    "by_month_created_date": "2021 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "14,731"
+  },
+  {
+    "by_month_created_date": "2022 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "25,670"
+  },
+  {
+    "by_month_created_date": "2020 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "5,180"
+  },
+  {
+    "by_month_created_date": "2025 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "10,000"
+  },
+  {
+    "by_month_created_date": "2021 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "35,308"
+  },
+  {
+    "by_month_created_date": "2024 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "43,167"
+  },
+  {
+    "by_month_created_date": "2023 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "17,966"
+  },
+  {
+    "by_month_created_date": "2022 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "27,859"
+  },
+  {
+    "by_month_created_date": "2020 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "2,425"
+  },
+  {
+    "by_month_created_date": "2020 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "12,732"
+  },
+  {
+    "by_month_created_date": "2024 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "2,901"
+  },
+  {
+    "by_month_created_date": "2024 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "39,868"
+  },
+  {
+    "by_month_created_date": "2023 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "43,291"
+  },
+  {
+    "by_month_created_date": "2023 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "2,799"
+  },
+  {
+    "by_month_created_date": "2022 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "7,323"
+  },
+  {
+    "by_month_created_date": "2021 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "36,246"
+  },
+  {
+    "by_month_created_date": "2025 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "43,139"
+  },
+  {
+    "by_month_created_date": "2022 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "5,124"
+  },
+  {
+    "by_month_created_date": "2022 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Request Large Bulky Item Collection",
+    "count_unique_key": "20,739"
+  },
+  {
+    "by_month_created_date": "2024 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "38,792"
+  },
+  {
+    "by_month_created_date": "2026 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "14,436"
+  },
+  {
+    "by_month_created_date": "2021 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "12,359"
+  },
+  {
+    "by_month_created_date": "2024 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "20,595"
+  },
+  {
+    "by_month_created_date": "2026 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "3,562"
+  },
+  {
+    "by_month_created_date": "2025 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "57,386"
+  },
+  {
+    "by_month_created_date": "2022 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "29,852"
+  },
+  {
+    "by_month_created_date": "2021 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Request Large Bulky Item Collection",
+    "count_unique_key": "27,104"
+  },
+  {
+    "by_month_created_date": "2022 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "25,903"
+  },
+  {
+    "by_month_created_date": "2022 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "31,002"
+  },
+  {
+    "by_month_created_date": "2024 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "10,071"
+  },
+  {
+    "by_month_created_date": "2024 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "45,560"
+  },
+  {
+    "by_month_created_date": "2021 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "12,899"
+  },
+  {
+    "by_month_created_date": "2026 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "10,126"
+  },
+  {
+    "by_month_created_date": "2026 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "6,024"
+  },
+  {
+    "by_month_created_date": "2024 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "5,839"
+  },
+  {
+    "by_month_created_date": "2021 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "8,864"
+  },
+  {
+    "by_month_created_date": "2022 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "8,426"
+  },
+  {
+    "by_month_created_date": "2021 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "2,474"
+  },
+  {
+    "by_month_created_date": "2023 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "4,487"
+  },
+  {
+    "by_month_created_date": "2021 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "4,960"
+  },
+  {
+    "by_month_created_date": "2024 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "10,720"
+  },
+  {
+    "by_month_created_date": "2021 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "10,933"
+  },
+  {
+    "by_month_created_date": "2021 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "2,618"
+  },
+  {
+    "by_month_created_date": "2026 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "5,141"
+  },
+  {
+    "by_month_created_date": "2023 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "13,806"
+  },
+  {
+    "by_month_created_date": "2022 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "22,341"
+  },
+  {
+    "by_month_created_date": "2022 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "34,026"
+  },
+  {
+    "by_month_created_date": "2021 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "26,325"
+  },
+  {
+    "by_month_created_date": "2025 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "63,902"
+  },
+  {
+    "by_month_created_date": "2026 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "79,928"
+  },
+  {
+    "by_month_created_date": "2022 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "3,089"
+  },
+  {
+    "by_month_created_date": "2021 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "25,046"
+  },
+  {
+    "by_month_created_date": "2026 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "19,909"
+  },
+  {
+    "by_month_created_date": "2023 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "5,203"
+  },
+  {
+    "by_month_created_date": "2025 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "15,538"
+  },
+  {
+    "by_month_created_date": "2025 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "3,801"
+  },
+  {
+    "by_month_created_date": "2026 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "26,949"
+  },
+  {
+    "by_month_created_date": "2023 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "12,367"
+  },
+  {
+    "by_month_created_date": "2021 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "11,638"
+  },
+  {
+    "by_month_created_date": "2023 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "8,511"
+  },
+  {
+    "by_month_created_date": "2022 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "23,780"
+  },
+  {
+    "by_month_created_date": "2023 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "6,894"
+  },
+  {
+    "by_month_created_date": "2025 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "23,287"
+  },
+  {
+    "by_month_created_date": "2024 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "46,368"
+  },
+  {
+    "by_month_created_date": "2025 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "40,699"
+  },
+  {
+    "by_month_created_date": "2023 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "41,733"
+  },
+  {
+    "by_month_created_date": "2026 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "4,306"
+  },
+  {
+    "by_month_created_date": "2023 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "4,413"
+  },
+  {
+    "by_month_created_date": "2023 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "13,079"
+  },
+  {
+    "by_month_created_date": "2024 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "3,379"
+  },
+  {
+    "by_month_created_date": "2021 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "7,952"
+  },
+  {
+    "by_month_created_date": "2020 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Request Large Bulky Item Collection",
+    "count_unique_key": "31,904"
+  },
+  {
+    "by_month_created_date": "2020 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "4,054"
+  },
+  {
+    "by_month_created_date": "2020 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "40,289"
+  },
+  {
+    "by_month_created_date": "2020 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "2,284"
+  },
+  {
+    "by_month_created_date": "2026 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "12,101"
+  },
+  {
+    "by_month_created_date": "2024 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "11,226"
+  },
+  {
+    "by_month_created_date": "2024 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "38,628"
+  },
+  {
+    "by_month_created_date": "2021 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "2,314"
+  },
+  {
+    "by_month_created_date": "2022 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "2,812"
+  },
+  {
+    "by_month_created_date": "2024 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "4,360"
+  },
+  {
+    "by_month_created_date": "2025 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "44,161"
+  },
+  {
+    "by_month_created_date": "2020 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "7,738"
+  },
+  {
+    "by_month_created_date": "2020 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "7,741"
+  },
+  {
+    "by_month_created_date": "2025 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "4,830"
+  },
+  {
+    "by_month_created_date": "2024 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "6,874"
+  },
+  {
+    "by_month_created_date": "2020 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "12,179"
+  },
+  {
+    "by_month_created_date": "2020 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Request Large Bulky Item Collection",
+    "count_unique_key": "28,058"
+  },
+  {
+    "by_month_created_date": "2025 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "7,581"
+  },
+  {
+    "by_month_created_date": "2024 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "3,285"
+  },
+  {
+    "by_month_created_date": "2020 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "17,474"
+  },
+  {
+    "by_month_created_date": "2020 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Request Large Bulky Item Collection",
+    "count_unique_key": "15,869"
+  },
+  {
+    "by_month_created_date": "2023 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "3,502"
+  },
+  {
+    "by_month_created_date": "2020 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "49,593"
+  },
+  {
+    "by_month_created_date": "2026 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "9,823"
+  },
+  {
+    "by_month_created_date": "2025 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "16,409"
+  },
+  {
+    "by_month_created_date": "2023 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "9,305"
+  },
+  {
+    "by_month_created_date": "2020 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "14,155"
+  },
+  {
+    "by_month_created_date": "2023 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "5,669"
+  },
+  {
+    "by_month_created_date": "2021 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "28,628"
+  },
+  {
+    "by_month_created_date": "2022 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "3,599"
+  },
+  {
+    "by_month_created_date": "2023 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "11,804"
+  },
+  {
+    "by_month_created_date": "2021 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Request Large Bulky Item Collection",
+    "count_unique_key": "23,917"
+  },
+  {
+    "by_month_created_date": "2026 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "5,735"
+  },
+  {
+    "by_month_created_date": "2025 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "7,449"
+  },
+  {
+    "by_month_created_date": "2026 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "17,957"
+  },
+  {
+    "by_month_created_date": "2021 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Request Large Bulky Item Collection",
+    "count_unique_key": "20,522"
+  },
+  {
+    "by_month_created_date": "2023 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "22,135"
+  },
+  {
+    "by_month_created_date": "2020 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "6,552"
+  },
+  {
+    "by_month_created_date": "2025 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "3,725"
+  },
+  {
+    "by_month_created_date": "2025 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "16,824"
+  },
+  {
+    "by_month_created_date": "2024 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "14,002"
+  },
+  {
+    "by_month_created_date": "2021 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "24,471"
+  },
+  {
+    "by_month_created_date": "2025 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "4,217"
+  },
+  {
+    "by_month_created_date": "2023 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "11,198"
+  },
+  {
+    "by_month_created_date": "2022 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "34,061"
+  },
+  {
+    "by_month_created_date": "2020 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "18,384"
+  },
+  {
+    "by_month_created_date": "2020 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "22,692"
+  },
+  {
+    "by_month_created_date": "2025 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "7,463"
+  },
+  {
+    "by_month_created_date": "2026 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "5,909"
+  },
+  {
+    "by_month_created_date": "2020 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "17,929"
+  },
+  {
+    "by_month_created_date": "2021 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "19,933"
+  },
+  {
+    "by_month_created_date": "2023 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "4,558"
+  },
+  {
+    "by_month_created_date": "2022 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "12,527"
+  },
+  {
+    "by_month_created_date": "2021 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "32,594"
+  },
+  {
+    "by_month_created_date": "2026 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "56,372"
+  },
+  {
+    "by_month_created_date": "2020 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "11,422"
+  },
+  {
+    "by_month_created_date": "2024 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "4,840"
+  },
+  {
+    "by_month_created_date": "2022 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "13,548"
+  },
+  {
+    "by_month_created_date": "2021 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "4,083"
+  },
+  {
+    "by_month_created_date": "2022 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "8,837"
+  },
+  {
+    "by_month_created_date": "2021 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "4,308"
+  },
+  {
+    "by_month_created_date": "2025 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "5,590"
+  },
+  {
+    "by_month_created_date": "2023 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "5,051"
+  },
+  {
+    "by_month_created_date": "2024 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "24,896"
+  },
+  {
+    "by_month_created_date": "2025 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "3,595"
+  },
+  {
+    "by_month_created_date": "2025 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "1,762"
+  },
+  {
+    "by_month_created_date": "2020 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "3,134"
+  },
+  {
+    "by_month_created_date": "2025 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "4,202"
+  },
+  {
+    "by_month_created_date": "2024 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "15,256"
+  },
+  {
+    "by_month_created_date": "2023 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "25,952"
+  },
+  {
+    "by_month_created_date": "2024 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "46,663"
+  },
+  {
+    "by_month_created_date": "2021 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "2,733"
+  },
+  {
+    "by_month_created_date": "2020 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "4,132"
+  },
+  {
+    "by_month_created_date": "2025 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "12,960"
+  },
+  {
+    "by_month_created_date": "2024 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "3,415"
+  },
+  {
+    "by_month_created_date": "2020 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "4,604"
+  },
+  {
+    "by_month_created_date": "2023 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "41,126"
+  },
+  {
+    "by_month_created_date": "2020 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "3,103"
+  },
+  {
+    "by_month_created_date": "2023 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "4,312"
+  },
+  {
+    "by_month_created_date": "2023 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "3,218"
+  },
+  {
+    "by_month_created_date": "2024 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "9,194"
+  },
+  {
+    "by_month_created_date": "2022 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "6,864"
+  },
+  {
+    "by_month_created_date": "2022 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "3,012"
+  },
+  {
+    "by_month_created_date": "2022 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "8,083"
+  },
+  {
+    "by_month_created_date": "2021 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "23,385"
+  },
+  {
+    "by_month_created_date": "2025 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "26,945"
+  },
+  {
+    "by_month_created_date": "2023 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "13,487"
+  },
+  {
+    "by_month_created_date": "2022 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "5,802"
+  },
+  {
+    "by_month_created_date": "2022 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "3,169"
+  },
+  {
+    "by_month_created_date": "2025 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "15,990"
+  },
+  {
+    "by_month_created_date": "2024 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "7,609"
+  },
+  {
+    "by_month_created_date": "2020 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "3,440"
+  },
+  {
+    "by_month_created_date": "2020 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "20,552"
+  },
+  {
+    "by_month_created_date": "2020 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "16,937"
+  },
+  {
+    "by_month_created_date": "2022 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "45,555"
+  },
+  {
+    "by_month_created_date": "2021 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "25,128"
+  },
+  {
+    "by_month_created_date": "2022 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "18,329"
+  },
+  {
+    "by_month_created_date": "2025 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "20,870"
+  },
+  {
+    "by_month_created_date": "2022 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "4,740"
+  },
+  {
+    "by_month_created_date": "2025 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "51,557"
+  },
+  {
+    "by_month_created_date": "2023 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "12,680"
+  },
+  {
+    "by_month_created_date": "2022 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "10,070"
+  },
+  {
+    "by_month_created_date": "2025 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "14,254"
+  },
+  {
+    "by_month_created_date": "2022 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "12,270"
+  },
+  {
+    "by_month_created_date": "2020 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "2,202"
+  },
+  {
+    "by_month_created_date": "2021 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "25,548"
+  },
+  {
+    "by_month_created_date": "2022 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "13,758"
+  },
+  {
+    "by_month_created_date": "2024 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "5,608"
+  },
+  {
+    "by_month_created_date": "2022 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "27,166"
+  },
+  {
+    "by_month_created_date": "2021 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Request Large Bulky Item Collection",
+    "count_unique_key": "28,905"
+  },
+  {
+    "by_month_created_date": "2026 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "51,438"
+  },
+  {
+    "by_month_created_date": "2022 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "11,987"
+  },
+  {
+    "by_month_created_date": "2025 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "2,929"
+  },
+  {
+    "by_month_created_date": "2021 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "17,787"
+  },
+  {
+    "by_month_created_date": "2023 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "5,377"
+  },
+  {
+    "by_month_created_date": "2022 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "9,148"
+  },
+  {
+    "by_month_created_date": "2022 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "7,788"
+  },
+  {
+    "by_month_created_date": "2022 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "7,171"
+  },
+  {
+    "by_month_created_date": "2024 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "15,333"
+  },
+  {
+    "by_month_created_date": "2020 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "6,651"
+  },
+  {
+    "by_month_created_date": "2022 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "36,157"
+  },
+  {
+    "by_month_created_date": "2025 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "3,008"
+  },
+  {
+    "by_month_created_date": "2022 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "3,714"
+  },
+  {
+    "by_month_created_date": "2023 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "8,868"
+  },
+  {
+    "by_month_created_date": "2021 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "22,379"
+  },
+  {
+    "by_month_created_date": "2020 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "2,512"
+  },
+  {
+    "by_month_created_date": "2020 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "7,018"
+  },
+  {
+    "by_month_created_date": "2020 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "3,755"
+  },
+  {
+    "by_month_created_date": "2023 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "4,720"
+  },
+  {
+    "by_month_created_date": "2025 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "4,203"
+  },
+  {
+    "by_month_created_date": "2025 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "51,073"
+  },
+  {
+    "by_month_created_date": "2020 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "18,511"
+  },
+  {
+    "by_month_created_date": "2023 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "8,398"
+  },
+  {
+    "by_month_created_date": "2022 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "23,625"
+  },
+  {
+    "by_month_created_date": "2023 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "7,065"
+  },
+  {
+    "by_month_created_date": "2024 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "39,971"
+  },
+  {
+    "by_month_created_date": "2025 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "15,104"
+  },
+  {
+    "by_month_created_date": "2023 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "5,652"
+  },
+  {
+    "by_month_created_date": "2021 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "5,271"
+  },
+  {
+    "by_month_created_date": "2022 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "53,796"
+  },
+  {
+    "by_month_created_date": "2022 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "7,892"
+  },
+  {
+    "by_month_created_date": "2025 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "43,928"
+  },
+  {
+    "by_month_created_date": "2023 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "26,396"
+  },
+  {
+    "by_month_created_date": "2024 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "4,835"
+  },
+  {
+    "by_month_created_date": "2021 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "6,021"
+  },
+  {
+    "by_month_created_date": "2022 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "3,489"
+  },
+  {
+    "by_month_created_date": "2025 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "6,659"
+  },
+  {
+    "by_month_created_date": "2022 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "12,126"
+  },
+  {
+    "by_month_created_date": "2021 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "7,155"
+  },
+  {
+    "by_month_created_date": "2024 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "31,057"
+  },
+  {
+    "by_month_created_date": "2025 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "10,005"
+  },
+  {
+    "by_month_created_date": "2021 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "12,797"
+  },
+  {
+    "by_month_created_date": "2023 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "15,258"
+  },
+  {
+    "by_month_created_date": "2024 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "9,820"
+  },
+  {
+    "by_month_created_date": "2025 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "6,138"
+  },
+  {
+    "by_month_created_date": "2022 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "44,350"
+  },
+  {
+    "by_month_created_date": "2026 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "11,777"
+  },
+  {
+    "by_month_created_date": "2021 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "28,885"
+  },
+  {
+    "by_month_created_date": "2024 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "3,514"
+  },
+  {
+    "by_month_created_date": "2021 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "22,156"
+  },
+  {
+    "by_month_created_date": "2023 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "22,519"
+  },
+  {
+    "by_month_created_date": "2026 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "4,418"
+  },
+  {
+    "by_month_created_date": "2020 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "6,334"
+  },
+  {
+    "by_month_created_date": "2020 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "6,571"
+  },
+  {
+    "by_month_created_date": "2020 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "20,735"
+  },
+  {
+    "by_month_created_date": "2020 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "3,597"
+  },
+  {
+    "by_month_created_date": "2021 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "5,773"
+  },
+  {
+    "by_month_created_date": "2020 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "41,660"
+  },
+  {
+    "by_month_created_date": "2025 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "54,313"
+  },
+  {
+    "by_month_created_date": "2025 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "8,893"
+  },
+  {
+    "by_month_created_date": "2025 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "3,979"
+  },
+  {
+    "by_month_created_date": "2023 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "4,367"
+  },
+  {
+    "by_month_created_date": "2025 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "47,001"
+  },
+  {
+    "by_month_created_date": "2024 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "14,459"
+  },
+  {
+    "by_month_created_date": "2025 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "13,282"
+  },
+  {
+    "by_month_created_date": "2021 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "8,867"
+  },
+  {
+    "by_month_created_date": "2023 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "40,555"
+  },
+  {
+    "by_month_created_date": "2025 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "28,019"
+  },
+  {
+    "by_month_created_date": "2024 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "22,091"
+  },
+  {
+    "by_month_created_date": "2022 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "7,699"
+  },
+  {
+    "by_month_created_date": "2020 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "12,021"
+  },
+  {
+    "by_month_created_date": "2023 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "10,600"
+  },
+  {
+    "by_month_created_date": "2024 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "47,405"
+  },
+  {
+    "by_month_created_date": "2023 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "13,200"
+  },
+  {
+    "by_month_created_date": "2021 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "3,467"
+  },
+  {
+    "by_month_created_date": "2022 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "3,867"
+  },
+  {
+    "by_month_created_date": "2020 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "3,217"
+  },
+  {
+    "by_month_created_date": "2023 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "4,175"
+  },
+  {
+    "by_month_created_date": "2025 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "7,035"
+  },
+  {
+    "by_month_created_date": "2021 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Request Large Bulky Item Collection",
+    "count_unique_key": "16,812"
+  },
+  {
+    "by_month_created_date": "2022 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "2,186"
+  },
+  {
+    "by_month_created_date": "2022 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Request Large Bulky Item Collection",
+    "count_unique_key": 260
+  },
+  {
+    "by_month_created_date": "2025 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "47,946"
+  },
+  {
+    "by_month_created_date": "2021 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "14,541"
+  },
+  {
+    "by_month_created_date": "2020 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "3,237"
+  },
+  {
+    "by_month_created_date": "2025 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "28,850"
+  },
+  {
+    "by_month_created_date": "2024 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "3,621"
+  },
+  {
+    "by_month_created_date": "2023 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "2,836"
+  },
+  {
+    "by_month_created_date": "2022 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "5,909"
+  },
+  {
+    "by_month_created_date": "2023 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "17,089"
+  },
+  {
+    "by_month_created_date": "2020 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "4,085"
+  },
+  {
+    "by_month_created_date": "2023 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "8,553"
+  },
+  {
+    "by_month_created_date": "2022 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Request Large Bulky Item Collection",
+    "count_unique_key": 360
+  },
+  {
+    "by_month_created_date": "2021 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "3,117"
+  },
+  {
+    "by_month_created_date": "2023 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "37,791"
+  },
+  {
+    "by_month_created_date": "2022 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "4,371"
+  },
+  {
+    "by_month_created_date": "2026 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "31,823"
+  },
+  {
+    "by_month_created_date": "2025 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "5,247"
+  },
+  {
+    "by_month_created_date": "2021 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "3,278"
+  },
+  {
+    "by_month_created_date": "2025 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "9,692"
+  },
+  {
+    "by_month_created_date": "2026 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "8,016"
+  },
+  {
+    "by_month_created_date": "2025 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "12,516"
+  },
+  {
+    "by_month_created_date": "2024 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "4,887"
+  },
+  {
+    "by_month_created_date": "2025 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "14,256"
+  },
+  {
+    "by_month_created_date": "2023 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "32,929"
+  },
+  {
+    "by_month_created_date": "2022 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "5,407"
+  },
+  {
+    "by_month_created_date": "2020 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "31,590"
+  },
+  {
+    "by_month_created_date": "2022 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "8,365"
+  },
+  {
+    "by_month_created_date": "2021 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "19,314"
+  },
+  {
+    "by_month_created_date": "2022 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "36,777"
+  },
+  {
+    "by_month_created_date": "2023 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "17,072"
+  },
+  {
+    "by_month_created_date": "2022 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Request Large Bulky Item Collection",
+    "count_unique_key": "18,720"
+  },
+  {
+    "by_month_created_date": "2025 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "53,740"
+  },
+  {
+    "by_month_created_date": "2022 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "32,909"
+  },
+  {
+    "by_month_created_date": "2020 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Request Large Bulky Item Collection",
+    "count_unique_key": "31,058"
+  },
+  {
+    "by_month_created_date": "2022 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "51,365"
+  },
+  {
+    "by_month_created_date": "2023 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "4,884"
+  },
+  {
+    "by_month_created_date": "2020 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "11,440"
+  },
+  {
+    "by_month_created_date": "2026 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "48,717"
+  },
+  {
+    "by_month_created_date": "2024 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "4,318"
+  },
+  {
+    "by_month_created_date": "2023 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "33,047"
+  },
+  {
+    "by_month_created_date": "2020 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "19,832"
+  },
+  {
+    "by_month_created_date": "2026 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "37,268"
+  },
+  {
+    "by_month_created_date": "2020 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "12,121"
+  },
+  {
+    "by_month_created_date": "2023 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "4,973"
+  },
+  {
+    "by_month_created_date": "2026 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "10,961"
+  },
+  {
+    "by_month_created_date": "2024 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "4,284"
+  },
+  {
+    "by_month_created_date": "2021 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "7,230"
+  },
+  {
+    "by_month_created_date": "2020 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "26,527"
+  },
+  {
+    "by_month_created_date": "2020 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "29,655"
+  },
+  {
+    "by_month_created_date": "2025 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "3,881"
+  },
+  {
+    "by_month_created_date": "2026 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "47,781"
+  },
+  {
+    "by_month_created_date": "2020 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "10,974"
+  },
+  {
+    "by_month_created_date": "2024 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "39,368"
+  },
+  {
+    "by_month_created_date": "2026 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "12,689"
+  },
+  {
+    "by_month_created_date": "2023 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "20,833"
+  },
+  {
+    "by_month_created_date": "2026 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "28,690"
+  },
+  {
+    "by_month_created_date": "2026 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "1,949"
+  },
+  {
+    "by_month_created_date": "2025 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "11,867"
+  },
+  {
+    "by_month_created_date": "2025 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "7,129"
+  },
+  {
+    "by_month_created_date": "2025 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "24,081"
+  },
+  {
+    "by_month_created_date": "2026 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "5,515"
+  },
+  {
+    "by_month_created_date": "2020 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "6,490"
+  },
+  {
+    "by_month_created_date": "2020 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "5,255"
+  },
+  {
+    "by_month_created_date": "2021 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "30,645"
+  },
+  {
+    "by_month_created_date": "2023 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "4,307"
+  },
+  {
+    "by_month_created_date": "2025 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "70,837"
+  },
+  {
+    "by_month_created_date": "2023 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "3,049"
+  },
+  {
+    "by_month_created_date": "2022 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "3,103"
+  },
+  {
+    "by_month_created_date": "2022 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "27,492"
+  },
+  {
+    "by_month_created_date": "2025 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "3,507"
+  },
+  {
+    "by_month_created_date": "2023 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "38,932"
+  },
+  {
+    "by_month_created_date": "2020 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Request Large Bulky Item Collection",
+    "count_unique_key": "25,317"
+  },
+  {
+    "by_month_created_date": "2023 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "14,556"
+  },
+  {
+    "by_month_created_date": "2020 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "2,050"
+  },
+  {
+    "by_month_created_date": "2022 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "3,167"
+  },
+  {
+    "by_month_created_date": "2021 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "9,053"
+  },
+  {
+    "by_month_created_date": "2021 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "3,915"
+  },
+  {
+    "by_month_created_date": "2025 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "14,661"
+  },
+  {
+    "by_month_created_date": "2020 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Request Large Bulky Item Collection",
+    "count_unique_key": "21,941"
+  },
+  {
+    "by_month_created_date": "2023 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "42,600"
+  },
+  {
+    "by_month_created_date": "2026 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "2,184"
+  },
+  {
+    "by_month_created_date": "2020 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "2,548"
+  },
+  {
+    "by_month_created_date": "2026 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "34,039"
+  },
+  {
+    "by_month_created_date": "2024 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "8,102"
+  },
+  {
+    "by_month_created_date": "2022 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "9,332"
+  },
+  {
+    "by_month_created_date": "2026 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "23,790"
+  },
+  {
+    "by_month_created_date": "2021 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "9,096"
+  },
+  {
+    "by_month_created_date": "2023 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "37,356"
+  },
+  {
+    "by_month_created_date": "2026 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "16,388"
+  },
+  {
+    "by_month_created_date": "2026 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "2,906"
+  },
+  {
+    "by_month_created_date": "2022 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "8,133"
+  },
+  {
+    "by_month_created_date": "2026 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "1,850"
+  },
+  {
+    "by_month_created_date": "2026 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "9,662"
+  },
+  {
+    "by_month_created_date": "2021 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "3,300"
+  },
+  {
+    "by_month_created_date": "2023 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "3,986"
+  },
+  {
+    "by_month_created_date": "2020 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "3,714"
+  },
+  {
+    "by_month_created_date": "2024 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "19,650"
+  },
+  {
+    "by_month_created_date": "2021 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "4,179"
+  },
+  {
+    "by_month_created_date": "2024 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "5,195"
+  },
+  {
+    "by_month_created_date": "2024 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "12,392"
+  },
+  {
+    "by_month_created_date": "2024 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "18,281"
+  },
+  {
+    "by_month_created_date": "2025 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "15,363"
+  },
+  {
+    "by_month_created_date": "2020 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "1,932"
+  },
+  {
+    "by_month_created_date": "2020 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "12,487"
+  },
+  {
+    "by_month_created_date": "2025 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "26,276"
+  },
+  {
+    "by_month_created_date": "2024 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "8,428"
+  },
+  {
+    "by_month_created_date": "2024 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "4,454"
+  },
+  {
+    "by_month_created_date": "2025 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "49,182"
+  },
+  {
+    "by_month_created_date": "2024 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "21,664"
+  },
+  {
+    "by_month_created_date": "2020 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "2,840"
+  },
+  {
+    "by_month_created_date": "2021 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "9,891"
+  },
+  {
+    "by_month_created_date": "2024 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "14,076"
+  },
+  {
+    "by_month_created_date": "2021 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "8,235"
+  },
+  {
+    "by_month_created_date": "2025 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "29,740"
+  },
+  {
+    "by_month_created_date": "2022 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "8,484"
+  },
+  {
+    "by_month_created_date": "2022 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Request Large Bulky Item Collection",
+    "count_unique_key": 299
+  },
+  {
+    "by_month_created_date": "2021 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "5,347"
+  },
+  {
+    "by_month_created_date": "2025 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "4,829"
+  },
+  {
+    "by_month_created_date": "2020 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "21,045"
+  },
+  {
+    "by_month_created_date": "2024 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "62,918"
+  },
+  {
+    "by_month_created_date": "2021 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "7,404"
+  },
+  {
+    "by_month_created_date": "2026 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "9,153"
+  },
+  {
+    "by_month_created_date": "2025 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "6,671"
+  },
+  {
+    "by_month_created_date": "2021 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "14,381"
+  },
+  {
+    "by_month_created_date": "2022 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "14,220"
+  },
+  {
+    "by_month_created_date": "2021 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "3,461"
+  },
+  {
+    "by_month_created_date": "2024 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "6,821"
+  },
+  {
+    "by_month_created_date": "2025 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "36,142"
+  },
+  {
+    "by_month_created_date": "2023 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "4,739"
+  },
+  {
+    "by_month_created_date": "2025 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "47,358"
+  },
+  {
+    "by_month_created_date": "2023 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "20,821"
+  },
+  {
+    "by_month_created_date": "2022 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "13,645"
+  },
+  {
+    "by_month_created_date": "2026 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "4,285"
+  },
+  {
+    "by_month_created_date": "2025 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "5,623"
+  },
+  {
+    "by_month_created_date": "2024 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "22,539"
+  },
+  {
+    "by_month_created_date": "2022 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "8,016"
+  },
+  {
+    "by_month_created_date": "2022 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "6,220"
+  },
+  {
+    "by_month_created_date": "2020 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "3,920"
+  },
+  {
+    "by_month_created_date": "2024 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "8,811"
+  },
+  {
+    "by_month_created_date": "2024 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "4,980"
+  },
+  {
+    "by_month_created_date": "2020 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "15,949"
+  },
+  {
+    "by_month_created_date": "2024 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "29,848"
+  },
+  {
+    "by_month_created_date": "2022 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "4,510"
+  },
+  {
+    "by_month_created_date": "2020 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "10,524"
+  },
+  {
+    "by_month_created_date": "2021 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "18,316"
+  },
+  {
+    "by_month_created_date": "2026 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "30,922"
+  },
+  {
+    "by_month_created_date": "2026 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "4,599"
+  },
+  {
+    "by_month_created_date": "2021 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "41,602"
+  },
+  {
+    "by_month_created_date": "2022 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Request Large Bulky Item Collection",
+    "count_unique_key": 101
+  },
+  {
+    "by_month_created_date": "2025 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "48,032"
+  },
+  {
+    "by_month_created_date": "2024 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "16,199"
+  },
+  {
+    "by_month_created_date": "2021 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "30,364"
+  },
+  {
+    "by_month_created_date": "2020 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "15,362"
+  },
+  {
+    "by_month_created_date": "2026 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "20,021"
+  },
+  {
+    "by_month_created_date": "2026 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "15,850"
+  },
+  {
+    "by_month_created_date": "2021 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "9,818"
+  },
+  {
+    "by_month_created_date": "2023 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "15,491"
+  },
+  {
+    "by_month_created_date": "2021 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Request Large Bulky Item Collection",
+    "count_unique_key": "23,661"
+  },
+  {
+    "by_month_created_date": "2022 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "5,297"
+  },
+  {
+    "by_month_created_date": "2020 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "7,537"
+  },
+  {
+    "by_month_created_date": "2024 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "41,124"
+  },
+  {
+    "by_month_created_date": "2021 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "3,627"
+  },
+  {
+    "by_month_created_date": "2021 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "13,778"
+  },
+  {
+    "by_month_created_date": "2020 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "3,293"
+  },
+  {
+    "by_month_created_date": "2020 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "40,368"
+  },
+  {
+    "by_month_created_date": "2021 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "6,033"
+  },
+  {
+    "by_month_created_date": "2021 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Request Large Bulky Item Collection",
+    "count_unique_key": "19,866"
+  },
+  {
+    "by_month_created_date": "2022 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "35,343"
+  },
+  {
+    "by_month_created_date": "2024 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "4,098"
+  },
+  {
+    "by_month_created_date": "2023 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "6,465"
+  },
+  {
+    "by_month_created_date": "2023 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "11,763"
+  },
+  {
+    "by_month_created_date": "2026 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "59,031"
+  },
+  {
+    "by_month_created_date": "2024 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "2,426"
+  },
+  {
+    "by_month_created_date": "2021 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "21,899"
+  },
+  {
+    "by_month_created_date": "2022 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "5,586"
+  },
+  {
+    "by_month_created_date": "2023 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "25,099"
+  },
+  {
+    "by_month_created_date": "2026 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "10,852"
+  },
+  {
+    "by_month_created_date": "2024 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "8,975"
+  },
+  {
+    "by_month_created_date": "2021 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "12,572"
+  },
+  {
+    "by_month_created_date": "2020 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "3,194"
+  },
+  {
+    "by_month_created_date": "2020 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "12,505"
+  },
+  {
+    "by_month_created_date": "2025 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "19,799"
+  },
+  {
+    "by_month_created_date": "2024 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "6,169"
+  },
+  {
+    "by_month_created_date": "2021 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "24,621"
+  },
+  {
+    "by_month_created_date": "2021 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "6,612"
+  },
+  {
+    "by_month_created_date": "2021 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "5,339"
+  },
+  {
+    "by_month_created_date": "2024 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "3,105"
+  },
+  {
+    "by_month_created_date": "2020 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "18,678"
+  },
+  {
+    "by_month_created_date": "2024 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "38,506"
+  },
+  {
+    "by_month_created_date": "2020 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Request Large Bulky Item Collection",
+    "count_unique_key": "17,208"
+  },
+  {
+    "by_month_created_date": "2023 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "20,645"
+  },
+  {
+    "by_month_created_date": "2020 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Request Large Bulky Item Collection",
+    "count_unique_key": "22,931"
+  },
+  {
+    "by_month_created_date": "2021 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Request Large Bulky Item Collection",
+    "count_unique_key": "28,759"
+  },
+  {
+    "by_month_created_date": "2021 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "5,832"
+  },
+  {
+    "by_month_created_date": "2023 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "35,545"
+  },
+  {
+    "by_month_created_date": "2022 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "3,206"
+  },
+  {
+    "by_month_created_date": "2020 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "25,711"
+  },
+  {
+    "by_month_created_date": "2020 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "3,073"
+  },
+  {
+    "by_month_created_date": "2020 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "3,097"
+  },
+  {
+    "by_month_created_date": "2020 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Request Large Bulky Item Collection",
+    "count_unique_key": "25,123"
+  },
+  {
+    "by_month_created_date": "2021 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "7,025"
+  },
+  {
+    "by_month_created_date": "2025 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "7,243"
+  },
+  {
+    "by_month_created_date": "2024 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "26,797"
+  },
+  {
+    "by_month_created_date": "2021 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "35,576"
+  },
+  {
+    "by_month_created_date": "2025 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "47,373"
+  },
+  {
+    "by_month_created_date": "2020 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Request Large Bulky Item Collection",
+    "count_unique_key": "29,754"
+  },
+  {
+    "by_month_created_date": "2022 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "30,126"
+  },
+  {
+    "by_month_created_date": "2023 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "14,602"
+  },
+  {
+    "by_month_created_date": "2021 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "10,885"
+  },
+  {
+    "by_month_created_date": "2021 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "28,301"
+  },
+  {
+    "by_month_created_date": "2020 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "4,605"
+  },
+  {
+    "by_month_created_date": "2022 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "13,333"
+  },
+  {
+    "by_month_created_date": "2024 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "4,466"
+  },
+  {
+    "by_month_created_date": "2021 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "6,472"
+  },
+  {
+    "by_month_created_date": "2020 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "36,369"
+  },
+  {
+    "by_month_created_date": "2022 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "8,697"
+  },
+  {
+    "by_month_created_date": "2022 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "19,771"
+  },
+  {
+    "by_month_created_date": "2022 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "3,581"
+  },
+  {
+    "by_month_created_date": "2022 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "3,355"
+  },
+  {
+    "by_month_created_date": "2024 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "27,139"
+  },
+  {
+    "by_month_created_date": "2025 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "5,044"
+  },
+  {
+    "by_month_created_date": "2025 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "25,205"
+  },
+  {
+    "by_month_created_date": "2021 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "30,391"
+  },
+  {
+    "by_month_created_date": "2023 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "3,832"
+  },
+  {
+    "by_month_created_date": "2022 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "33,164"
+  },
+  {
+    "by_month_created_date": "2026 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "6,422"
+  },
+  {
+    "by_month_created_date": "2022 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "24,313"
+  },
+  {
+    "by_month_created_date": "2024 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "2,415"
+  },
+  {
+    "by_month_created_date": "2026 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "28,739"
+  },
+  {
+    "by_month_created_date": "2025 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "8,401"
+  },
+  {
+    "by_month_created_date": "2024 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "13,642"
+  },
+  {
+    "by_month_created_date": "2024 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "5,632"
+  },
+  {
+    "by_month_created_date": "2021 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "27,429"
+  },
+  {
+    "by_month_created_date": "2021 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "14,058"
+  },
+  {
+    "by_month_created_date": "2022 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "5,330"
+  },
+  {
+    "by_month_created_date": "2021 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "4,078"
+  },
+  {
+    "by_month_created_date": "2025 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "47,243"
+  },
+  {
+    "by_month_created_date": "2022 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "21,052"
+  },
+  {
+    "by_month_created_date": "2022 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "5,192"
+  },
+  {
+    "by_month_created_date": "2025 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "32,905"
+  },
+  {
+    "by_month_created_date": "2022 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Request Large Bulky Item Collection",
+    "count_unique_key": 225
+  },
+  {
+    "by_month_created_date": "2024 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "5,225"
+  },
+  {
+    "by_month_created_date": "2023 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "4,984"
+  },
+  {
+    "by_month_created_date": "2022 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "7,534"
+  },
+  {
+    "by_month_created_date": "2022 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "11,797"
+  },
+  {
+    "by_month_created_date": "2020 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "18,468"
+  },
+  {
+    "by_month_created_date": "2021 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "8,802"
+  },
+  {
+    "by_month_created_date": "2023 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "3,568"
+  },
+  {
+    "by_month_created_date": "2020 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "4,996"
+  },
+  {
+    "by_month_created_date": "2022 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "33,797"
+  },
+  {
+    "by_month_created_date": "2021 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "12,245"
+  },
+  {
+    "by_month_created_date": "2026 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "4,388"
+  },
+  {
+    "by_month_created_date": "2024 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "21,511"
+  },
+  {
+    "by_month_created_date": "2021 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Request Large Bulky Item Collection",
+    "count_unique_key": "28,630"
+  },
+  {
+    "by_month_created_date": "2020 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "9,497"
+  },
+  {
+    "by_month_created_date": "2025 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "26,659"
+  },
+  {
+    "by_month_created_date": "2020 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "9,631"
+  },
+  {
+    "by_month_created_date": "2024 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "30,316"
+  },
+  {
+    "by_month_created_date": "2024 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "6,091"
+  },
+  {
+    "by_month_created_date": "2024 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "3,350"
+  },
+  {
+    "by_month_created_date": "2026 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "10,865"
+  },
+  {
+    "by_month_created_date": "2020 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "27,863"
+  },
+  {
+    "by_month_created_date": "2022 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "13,317"
+  },
+  {
+    "by_month_created_date": "2022 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "4,400"
+  },
+  {
+    "by_month_created_date": "2026 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "11,103"
+  },
+  {
+    "by_month_created_date": "2021 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "5,005"
+  },
+  {
+    "by_month_created_date": "2020 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "6,187"
+  },
+  {
+    "by_month_created_date": "2023 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "2,861"
+  },
+  {
+    "by_month_created_date": "2024 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "10,600"
+  },
+  {
+    "by_month_created_date": "2021 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Request Large Bulky Item Collection",
+    "count_unique_key": "27,911"
+  },
+  {
+    "by_month_created_date": "2022 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "11,351"
+  },
+  {
+    "by_month_created_date": "2024 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "42,959"
+  },
+  {
+    "by_month_created_date": "2023 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "11,371"
+  },
+  {
+    "by_month_created_date": "2024 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "6,747"
+  },
+  {
+    "by_month_created_date": "2021 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "10,881"
+  },
+  {
+    "by_month_created_date": "2025 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "5,411"
+  },
+  {
+    "by_month_created_date": "2026 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "16,688"
+  },
+  {
+    "by_month_created_date": "2024 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "24,805"
+  },
+  {
+    "by_month_created_date": "2022 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "9,054"
+  },
+  {
+    "by_month_created_date": "2025 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "3,757"
+  },
+  {
+    "by_month_created_date": "2025 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "3,574"
+  },
+  {
+    "by_month_created_date": "2025 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "11,568"
+  },
+  {
+    "by_month_created_date": "2025 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "5,327"
+  },
+  {
+    "by_month_created_date": "2026 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "17,407"
+  },
+  {
+    "by_month_created_date": "2023 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "29,931"
+  },
+  {
+    "by_month_created_date": "2020 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "3,222"
+  },
+  {
+    "by_month_created_date": "2023 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "7,103"
+  },
+  {
+    "by_month_created_date": "2021 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "8,149"
+  },
+  {
+    "by_month_created_date": "2026 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "5,724"
+  },
+  {
+    "by_month_created_date": "2025 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "4,787"
+  },
+  {
+    "by_month_created_date": "2026 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "56,689"
+  },
+  {
+    "by_month_created_date": "2023 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "3,236"
+  },
+  {
+    "by_month_created_date": "2021 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "12,811"
+  },
+  {
+    "by_month_created_date": "2024 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "39,103"
+  },
+  {
+    "by_month_created_date": "2023 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "47,298"
+  },
+  {
+    "by_month_created_date": "2025 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "3,661"
+  },
+  {
+    "by_month_created_date": "2023 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "39,334"
+  },
+  {
+    "by_month_created_date": "2023 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "4,468"
+  },
+  {
+    "by_month_created_date": "2020 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "2,958"
+  },
+  {
+    "by_month_created_date": "2020 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "8,457"
+  },
+  {
+    "by_month_created_date": "2024 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "11,512"
+  },
+  {
+    "by_month_created_date": "2025 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "9,607"
+  },
+  {
+    "by_month_created_date": "2026 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "16,311"
+  },
+  {
+    "by_month_created_date": "2020 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "13,099"
+  },
+  {
+    "by_month_created_date": "2020 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "2,495"
+  },
+  {
+    "by_month_created_date": "2023 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "4,447"
+  },
+  {
+    "by_month_created_date": "2024 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "14,635"
+  },
+  {
+    "by_month_created_date": "2022 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "6,810"
+  },
+  {
+    "by_month_created_date": "2021 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "7,250"
+  },
+  {
+    "by_month_created_date": "2025 Oct 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "15,481"
+  },
+  {
+    "by_month_created_date": "2025 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "4,779"
+  },
+  {
+    "by_month_created_date": "2023 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "3,044"
+  },
+  {
+    "by_month_created_date": "2023 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "25,220"
+  },
+  {
+    "by_month_created_date": "2025 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "3,343"
+  },
+  {
+    "by_month_created_date": "2025 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "8,320"
+  },
+  {
+    "by_month_created_date": "2025 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "11,227"
+  },
+  {
+    "by_month_created_date": "2026 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "6,317"
+  },
+  {
+    "by_month_created_date": "2025 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "42,267"
+  },
+  {
+    "by_month_created_date": "2022 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "23,249"
+  },
+  {
+    "by_month_created_date": "2023 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "3,932"
+  },
+  {
+    "by_month_created_date": "2020 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "45,581"
+  },
+  {
+    "by_month_created_date": "2023 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "11,270"
+  },
+  {
+    "by_month_created_date": "2026 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "11,513"
+  },
+  {
+    "by_month_created_date": "2026 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "10,354"
+  },
+  {
+    "by_month_created_date": "2022 Jul 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "6,136"
+  },
+  {
+    "by_month_created_date": "2022 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Water System",
+    "count_unique_key": "4,984"
+  },
+  {
+    "by_month_created_date": "2022 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "5,344"
+  },
+  {
+    "by_month_created_date": "2025 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "UNSANITARY CONDITION",
+    "count_unique_key": "9,677"
+  },
+  {
+    "by_month_created_date": "2024 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "7,147"
+  },
+  {
+    "by_month_created_date": "2023 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "4,996"
+  },
+  {
+    "by_month_created_date": "2020 Feb 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "10,244"
+  },
+  {
+    "by_month_created_date": "2023 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "26,574"
+  },
+  {
+    "by_month_created_date": "2025 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "14,150"
+  },
+  {
+    "by_month_created_date": "2020 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "16,942"
+  },
+  {
+    "by_month_created_date": "2026 Mar 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "29,783"
+  },
+  {
+    "by_month_created_date": "2021 Aug 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "21,729"
+  },
+  {
+    "by_month_created_date": "2024 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Residential",
+    "count_unique_key": "25,261"
+  },
+  {
+    "by_month_created_date": "2024 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "24,780"
+  },
+  {
+    "by_month_created_date": "2021 Dec 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "4,184"
+  },
+  {
+    "by_month_created_date": "2026 Apr 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "HEAT/HOT WATER",
+    "count_unique_key": "19,553"
+  },
+  {
+    "by_month_created_date": "2021 Jun 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "6,938"
+  },
+  {
+    "by_month_created_date": "2025 Sep 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Vehicle",
+    "count_unique_key": "4,204"
+  },
+  {
+    "by_month_created_date": "2021 May 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Illegal Parking",
+    "count_unique_key": "28,814"
+  },
+  {
+    "by_month_created_date": "2024 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Noise - Street/Sidewalk",
+    "count_unique_key": "9,256"
+  },
+  {
+    "by_month_created_date": "2023 Jan 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Blocked Driveway",
+    "count_unique_key": "13,304"
+  },
+  {
+    "by_month_created_date": "2025 Nov 01 12:00:00 AM",
+    "Problem (formerly Complaint Type)": "Street Condition",
+    "count_unique_key": "4,049"
+  }
+]
